@@ -42,7 +42,7 @@ Converts business inputs (OKRs, backlog items, stakeholder interviews) into stra
 4. **Recommended: Start with Plan Mode**
 
    - For best results, use "plan mode" first:
-     - In Cursor, select the first prompt file (e.g., `process/step 1.md`), then press <kbd>Shift</kbd> + <kbd>Tab</kbd> to activate plan mode.
+     - Press <kbd>Shift</kbd> + <kbd>Tab</kbd> in Claude Code to activate plan mode.
      - This will let Claude explain what it will do before running the step, so you understand the process.
 
 5. **Proceed Through Steps**
