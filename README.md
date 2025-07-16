@@ -1,4 +1,4 @@
-# Strategic Analysis Framework (v0.1)
+# Claude Strategist
 
 **⚠️ Early Proof of Concept - Not Production Ready**
 
